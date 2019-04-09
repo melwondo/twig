@@ -1,0 +1,7 @@
+{
+    "name": "melanie/quete-twig",
+    "description": "Projet quete twig",
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
